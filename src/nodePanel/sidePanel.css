@@ -1,0 +1,25 @@
+.side-panel-root {
+    height: 90vh;
+    border-left: 2px solid #E8E8E8;
+}
+
+.node-panel-root {
+    padding :10px 20px
+}
+
+.settings-panel-root {
+    padding :10px 20px;
+}
+
+.setting-panel-header {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    border-bottom: 2px solid #E8E8E8;
+}
+
+.setting-panel-content{
+    padding: 10px 20px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #E8E8E8;
+}

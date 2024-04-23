@@ -1,0 +1,5 @@
+.canvas-layout {
+    display: grid;
+grid-template-columns: 70vw 30vw;
+height: 90vh;
+}
